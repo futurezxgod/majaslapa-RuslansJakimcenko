@@ -1,0 +1,23 @@
+h5 {
+    color:rgb(230, 180, 16);
+}
+
+body {
+    background-color: rgb(173, 166, 180);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    color:blueviolet;
+    text-align: center;
+}
+
+table, tr, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+ol{
+    list-style-type: lower-alpha;
+    
+}
